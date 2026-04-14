@@ -1,0 +1,30 @@
+# LeadHarvester Pro - Google Maps Lead Scraper
+# Core Scraping
+playwright==1.49.1
+
+# Data Processing
+pandas==2.2.3
+openpyxl==3.1.5
+xlsxwriter==3.2.2
+
+# AI Enrichment
+openai==1.58.1
+
+# CLI & Display
+click==8.1.8
+rich==13.9.4
+
+# Config & Environment
+python-dotenv==1.0.1
+
+# Rate Limiting & Retry
+tenacity==9.0.0
+
+# Logging
+loguru==0.7.3
+
+# Validation
+pydantic==2.10.3
+
+# Fake Data / User Agents
+fake-useragent==2.0.3

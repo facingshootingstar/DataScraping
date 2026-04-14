@@ -1,0 +1,17 @@
+[
+    {
+        "keyword": "restaurants",
+        "location": "Austin, TX",
+        "max": 30
+    },
+    {
+        "keyword": "plumbers",
+        "location": "Austin, TX",
+        "max": 20
+    },
+    {
+        "keyword": "dentists",
+        "location": "Austin, TX",
+        "max": 25
+    }
+]
